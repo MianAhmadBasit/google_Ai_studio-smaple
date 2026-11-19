@@ -1,0 +1,8 @@
+{
+  "name": "Al-Mizan Legal Chambers",
+  "description": "Premium, AI-powered corporate and trial advocacy law firm of Pakistan, specializing in criminal, family, property, and SECP business registries. Partnered with AI Innovation Lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
